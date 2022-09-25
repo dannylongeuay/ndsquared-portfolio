@@ -1,6 +1,6 @@
 {
 	"name": "sveltekit-tailwindcss-daisyui-template",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"tilt": "svelte-kit dev --host",
