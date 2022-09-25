@@ -1,5 +1,5 @@
 {
-	"name": "sveltekit-tailwindcss-daisyui-template",
+	"name": "NDSquared Porfolio Frontend",
 	"version": "1.0.0",
 	"scripts": {
 		"dev": "svelte-kit dev",
