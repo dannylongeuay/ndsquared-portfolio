@@ -34,8 +34,6 @@ spec:
           image: "dannylongeuay/ndsq-portfolio:latest"
           imagePullPolicy: Always
           envFrom:
-            - secretRef:
-                name: portfolio
             - configMapRef:
                 name: portfolio
           ports:
