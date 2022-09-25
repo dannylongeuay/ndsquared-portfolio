@@ -5,4 +5,4 @@ resources:
   - deployment.yaml
 images:
   - name: dannylongeuay/ndsq-portfolio
-    newTag: 1.0.0
+    newTag: 2.0.0
