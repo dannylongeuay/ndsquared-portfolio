@@ -18,7 +18,7 @@ const config = {
 		vite: {
 			server: {
 				hmr: {
-					port: process.env['VITE_SERVER_HMR_PORT'] || 3000,
+					port: process.env['VITE_SERVER_HMR_PORT'] || 3000
 				}
 			}
 		}
