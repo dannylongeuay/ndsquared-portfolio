@@ -1,6 +1,6 @@
 {
 	"name": "NDSquared Porfolio Frontend",
-	"version": "2.9.0",
+	"version": "1.3.0",
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"tilt": "svelte-kit dev --host",
